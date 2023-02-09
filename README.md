@@ -1,3 +1,3 @@
 # Getting Started with Create React App
 
-# This weather app made by watching a tutorial video
+# This weather app was made by watching a tutorial video
